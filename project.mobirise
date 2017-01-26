@@ -111,7 +111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -184,7 +184,7 @@
           },
           "title": "Biography",
           "text": "Amy Prieto is a student attending Miami Arts Studio for about two years now and is in the Tech Production magnet . Amy really has high expectations for her future and tries really hard in all of her classes",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box6-1\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-j\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a>"
         },
         {
           "_styles": {
