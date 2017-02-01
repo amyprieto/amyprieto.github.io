@@ -570,6 +570,19 @@ h6,
 #menu-b .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box5-h H3 {
+  color: #ffffff;
+}
+#msg-box5-h P {
+  color: #ffffff;
+}
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-p H3 {
+  color: #ffffff;
+}
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
