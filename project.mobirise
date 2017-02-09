@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Adobe Photoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -641,32 +641,12 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/red-panda-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/red-panda-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-avengers-5-2000x982-800x392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-avengers-5-2000x982.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-batman-logo-2000x1182-800x472.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-batman-logo-2000x1182.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -675,38 +655,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-composite-7-2000x2103-800x841.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-composite-7-2000x2103.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-hulk-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-hulk-3-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-flash-logo-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-flash-logo-2000x1600.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-iron-man-4-1-2000x2975-800x1190.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-iron-man-4-1-2000x2975.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -715,8 +665,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto-marvel-symbols-6-2000x1973-800x789.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto-marvel-symbols-6-2000x1973.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -725,8 +675,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-prieto12-inch-record-layout-1-2000x3714-800x1485.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-prieto12-inch-record-layout-1-2000x3714.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -735,8 +685,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brochure-template-amy-prieto-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brochure-template-amy-prieto-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -745,8 +695,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brochure-template-side-2-new-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brochure-template-side-2-new-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -755,8 +705,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/project-5-album-cover-finished-1-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-5-album-cover-finished-1-2000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-6-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-6-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -765,8 +715,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/project-5-album-cover-the-inside-of-the-cover-1-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-5-album-cover-the-inside-of-the-cover-1-2000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-7-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-7-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -775,8 +725,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amy-tiger-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amy-tiger-3-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-8-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-8-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-9-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-9-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-11-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-11-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
