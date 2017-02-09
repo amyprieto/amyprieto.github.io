@@ -583,6 +583,7 @@ h6,
 #header3-p H3 {
   color: #ffffff;
 }
+
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -649,6 +650,9 @@ h6,
 #menu-e .close-icon::before,
 #menu-e .close-icon::after {
   background-color: #ffffff;
+}
+#msg-box5-u H3 {
+  font-family: 'Indie Flower', cursive;
 }
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
