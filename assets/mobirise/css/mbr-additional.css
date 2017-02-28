@@ -559,6 +559,9 @@ h6,
 #menu-q .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box5-t H3 {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
