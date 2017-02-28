@@ -559,9 +559,6 @@ h6,
 #menu-q .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box5-t H3 {
-  color: #ffffff;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -629,19 +626,16 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-15 .mbr-section-lead {
+  font-size: 14px;
+}
+#header3-1m .mbr-section-title,
+#header3-1m .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-1k .mbr-section-title,
 #msg-box8-1k p {
   color: #fff;
-}
-#header3-1f .mbr-section-title,
-#header3-1f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1f H3 {
-  color: #ffffff;
-}
-#content2-j DIV {
-  color: #ffffff;
 }
 #social-buttons4-1l .mbr-section-title,
 #social-buttons4-1l .btn-social {
@@ -744,144 +738,4 @@ h6,
 }
 #header3-z H3 {
   font-family: 'Indie Flower', cursive;
-}
-#menu-1n .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1n .navbar-caption {
-  color: #ffffff;
-}
-#menu-1n .navbar-toggler {
-  color: #ffffff;
-}
-#menu-1n .link,
-#menu-1n .dropdown-item {
-  color: #ffffff;
-}
-#menu-1n .link {
-  font-size: 0.75rem;
-}
-#menu-1n .dropdown-item,
-#menu-1n .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-1n .link:hover,
-#menu-1n .dropdown-item:hover,
-#menu-1n .link:focus,
-#menu-1n .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-1n .link[aria-expanded="true"],
-#menu-1n .dropdown-menu {
-  background: #000000;
-}
-#menu-1n .nav-dropdown-sm .link:focus,
-#menu-1n .nav-dropdown-sm .link:hover,
-#menu-1n .nav-dropdown-sm .dropdown-item:focus,
-#menu-1n .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-1n .navbar,
-#menu-1n .nav-dropdown-sm,
-#menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1n .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-1n .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-1n .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1n .bg-color.transparent.opened .link:hover,
-#menu-1n .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-1n .link[aria-expanded="true"],
-#menu-1n .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-1n.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1n .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-1n .close-icon::before,
-#menu-1n .close-icon::after {
-  background-color: #ffffff;
-}
-#header5-1s .mbr-section-title {
-  color: #ffffff;
-}
-#header5-1s .mbr-section-lead {
-  color: #9c9a9a;
-}
-#menu-1t .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1t .navbar-caption {
-  color: #ffffff;
-}
-#menu-1t .navbar-toggler {
-  color: #ffffff;
-}
-#menu-1t .link,
-#menu-1t .dropdown-item {
-  color: #ffffff;
-}
-#menu-1t .link {
-  font-size: 0.75rem;
-}
-#menu-1t .dropdown-item,
-#menu-1t .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-1t .link:hover,
-#menu-1t .dropdown-item:hover,
-#menu-1t .link:focus,
-#menu-1t .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-1t .link[aria-expanded="true"],
-#menu-1t .dropdown-menu {
-  background: #000000;
-}
-#menu-1t .nav-dropdown-sm .link:focus,
-#menu-1t .nav-dropdown-sm .link:hover,
-#menu-1t .nav-dropdown-sm .dropdown-item:focus,
-#menu-1t .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-1t .navbar,
-#menu-1t .nav-dropdown-sm,
-#menu-1t .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1t .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-1t .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-1t .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1t .bg-color.transparent.opened .link:hover,
-#menu-1t .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-1t .link[aria-expanded="true"],
-#menu-1t .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-1t.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1t .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-1t .close-icon::before,
-#menu-1t .close-icon::after {
-  background-color: #ffffff;
 }
