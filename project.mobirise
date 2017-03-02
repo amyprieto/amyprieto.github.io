@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 60,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -272,7 +272,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-9-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-9-2000x2666.jpg",
                 "caption": "Aerospace Engineering Brochure",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -299,8 +299,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x2666-2-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x2666-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-w-stroke-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-w-stroke-2000x2666.jpg",
                 "caption": "Aerosmith Front Album Cover",
                 "active": false
               },
@@ -309,10 +309,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2666-1-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2666-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-2000x2666.jpg",
                 "caption": "Aerosmith Back Album Cover",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -322,6 +322,86 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666-1-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666-1.jpg",
                 "caption": "Photoshop actions - Tints",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-1-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-1-2000x2666.jpg",
+                "caption": "Masterpiece- Reproduction 1",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-2-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-2-2000x2666-1.jpg",
+                "caption": "Masterpiece- Reproduction 2",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-3-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-3-2000x2666-1.jpg",
+                "caption": "Masterpiece- Reproduction 3",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-4-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-4-2000x2666-1.jpg",
+                "caption": "Masterpiece- Reproduction 4",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-5-2000x2666.jpg",
+                "caption": "Masterpiece- Reproduction 5",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-6-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-6-2000x2666.jpg",
+                "caption": "Masterpiece- Reproduction 6",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-7-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-7-2000x2666.jpg",
+                "caption": "Masterpiece- Reproduction 7",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-8-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-8-2000x2666.jpg",
+                "caption": "Masterpiece- Reproduction 8",
                 "active": false
               }
             ],
@@ -356,7 +436,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>13352 SW 26 Terrace,<br> Miami Florida, 33175<br><br><br>\n<strong>Contacts</strong><br>\nEmail: amyprieto@miamiartsstudio.com<br>\nPhone: (305)916-9353<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "amyprieto@miamiartsstudio.com",
@@ -861,39 +941,39 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666-2-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-2000x2666.jpg",
                 "caption": "Photoshop actions - Tints",
                 "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2666-2-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2666-2.jpg",
-                "caption": "Aerospace Engineering Brochure",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-6-2000x2666-1-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-6-2000x2666-1.jpg",
-                "caption": "Aerospace Engineering Brochure Side 2",
-                "active": true
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x2666-3-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x2666-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-4-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-4-2000x2666.jpg",
                 "caption": "Ten Dollar Bill Recreation",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-2-2000x2666.jpg",
+                "caption": "Aerospace Engineering Brochure Side 2",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stroke-3-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stroke-3-2000x2666.jpg",
+                "caption": "Photoshop actions - Tints",
                 "active": false
               }
             ],
@@ -928,7 +1008,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>13352 SW 26 Terrace,<br> Miami Florida, 33175<br><br><br>\n<strong>Contacts</strong><br>\nEmail: amyprieto@miamiartsstudio.com<br>\nPhone: (305)916-9353<br><br>",
-          "text2": "<p><p></p><p class=\"mbr-contacts__text\"><strong>Links</strong></p>YouTube Channel:</p><p>https://www.youtube.com/channel/UCGAa3kGc-bqe4nGtAvf8_Uw<p></p><p></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\"><br></span></p><p><br></p><p><span style=\"font-size: 14px; line-height: 25px;\"><br></span></p><p><span style=\"font-size: 14px; line-height: 25px;\"><br></span></p></ul><p></p></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "amyprieto@miamiartsstudio.com",
@@ -1335,7 +1415,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>13352 SW 26 Terrace,<br> Miami Florida, 33175<br><br><br>\n<strong>Contacts</strong><br>\nEmail: amyprieto@miamiartsstudio.com<br>\nPhone: (305)916-9353<br><br>",
-          "text2": "<p><p></p><p class=\"mbr-contacts__text\"><strong>Links</strong></p>YouTube Channel:</p><p>https://www.youtube.com/channel/UCGAa3kGc-bqe4nGtAvf8_Uw<p></p><p></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\"><br></span></p><p><br></p><p><span style=\"font-size: 14px; line-height: 25px;\"><br></span></p><p><span style=\"font-size: 14px; line-height: 25px;\"><br></span></p></ul><p></p></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "amyprieto@miamiartsstudio.com",
