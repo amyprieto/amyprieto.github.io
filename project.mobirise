@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Adobe Photoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -239,8 +239,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-avengers-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-avengers-2000x2666.jpg",
                 "caption": "Avengers Re-draw",
                 "active": false
               },
@@ -249,18 +249,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-dvd-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-dvd-2000x2666.jpg",
                 "caption": "Aerosmith Record Label",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-hulk-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-hulk-2000x2666.jpg",
                 "caption": "Hulk Logo Re-draw",
                 "active": false
               },
@@ -312,7 +312,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-3-w-stroke-2000x2666.jpg",
                 "caption": "Aerosmith Back Album Cover",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -771,7 +771,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1ef-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
