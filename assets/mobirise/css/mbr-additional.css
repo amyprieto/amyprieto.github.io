@@ -53,6 +53,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -629,17 +635,12 @@ h6,
 #header1-15 .mbr-section-lead {
   font-size: 14px;
 }
+#msg-box5-1w H3 {
+  color: #ffffff;
+}
 #header3-1m .mbr-section-title,
 #header3-1m .mbr-section-subtitle {
   text-align: center;
-}
-#msg-box8-1k .mbr-section-title,
-#msg-box8-1k p {
-  color: #fff;
-}
-#social-buttons4-1l .mbr-section-title,
-#social-buttons4-1l .btn-social {
-  color: #fff;
 }
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
@@ -647,6 +648,10 @@ h6,
 }
 #header3-1e H3 {
   color: #ffffff;
+}
+#social-buttons4-1l .mbr-section-title,
+#social-buttons4-1l .btn-social {
+  color: #fff;
 }
 
 
